@@ -8,7 +8,7 @@ The purpose of the project can vary depending on your specific goals and intenti
 2.Minting and Burning Tokens: The project provides functionality to mint (create) and burn (destroy) tokens. The mint function allows you to increase the total supply of tokens and allocate them to a specific address. The burn function allows for the removal of tokens from a specific address, reducing the total supply accordingly. This capability can be useful for managing token distribution, rewards, or adjusting token supply based on specific rules or requirements.
 
 3.Token Management and Balances: The project includes a mapping variable called "balances," which allows you to track the balance of tokens held by different addresses. The balances are publicly accessible, as defined by the "public" keyword. This feature enables transparency and allows users or external systems to verify token balances.
-
+ 
 
 ## Description
 
